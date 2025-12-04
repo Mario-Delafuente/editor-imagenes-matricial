@@ -1,4 +1,4 @@
-// ============================================
+// ===========================================
 // EDITOR DE IMÁGENES CON ÁLGEBRA MATRICIAL
 // ============================================
 // Nombre del estudiante: Mario Alberto de la fuente ruiz
